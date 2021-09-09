@@ -1,4 +1,4 @@
-import tickets from './index';
+import tickets from './clerk';
 
 const chai = require('chai');
 const assert = chai.assert;
