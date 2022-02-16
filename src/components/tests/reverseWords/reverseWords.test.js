@@ -1,6 +1,6 @@
 import reverseWords from './reverseWords';
 
-describe('reverseWords', () => {
+describe.only('reverseWords', () => {
   it('reverses strings', () => {
     const test = 'Your momma is so fat';
   
